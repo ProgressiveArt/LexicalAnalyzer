@@ -1,0 +1,9 @@
+int r2d2, c3po;
+char leia;
+r2d2=56;
+leia='p';
+c3po=r2d2*4+567;
+Han_Solo(char Chewbacca, int Falcon);
+Float Luke;
+Vader();
+

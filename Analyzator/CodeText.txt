@@ -1,0 +1,4 @@
+foo(int rr,);
+int h,t;
+h=10;
+t=*h+10;
